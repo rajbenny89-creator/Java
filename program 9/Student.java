@@ -1,4 +1,4 @@
-import java.util.Scanner; 
+programimport java.util.Scanner; 
 import java.util.Vector; 
 import java.util.Hashtable; 
 import java.util.Iterator; 
